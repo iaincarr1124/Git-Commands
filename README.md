@@ -64,3 +64,9 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+
+### Merging Remote Changes
+
+| Command | Decription |
+|-------- |----------- |
+| git fetch | update the remote copy of the local branch
